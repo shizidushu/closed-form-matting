@@ -96,3 +96,12 @@ The original matlab code is here http://www.wisdom.weizmann.ac.il/~levina/mattin
 ## Disclaimer
 
 The code is free for academic/research purpose. Use at your own risk and we are not responsible for any loss resulting from this code. Feel free to submit pull request for bug fixes.
+
+
+## 注意
+需要使用python 3.6
+
+```bash
+pip install scikit-umfpack
+pip install scipy
+```
